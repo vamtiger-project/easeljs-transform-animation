@@ -12,4 +12,4 @@ It included fooling about with:
 5. CANVAS
 6. EASELJS
 
-The demo can be viewed on [Code Pen](http://codepen.io/vamtiger/full/aNGYaR/)
+The demo can be viewed on [Code Pen](http://codepen.io/vamtiger/full/aNGYaR/).
