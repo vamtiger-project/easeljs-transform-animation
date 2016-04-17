@@ -1,0 +1,9 @@
+/*
+Main Css Script
+*/
+
+canvas {
+	display: block;
+	margin: 0 auto;
+	background: black;
+}
